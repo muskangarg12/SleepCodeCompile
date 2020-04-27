@@ -1,0 +1,35 @@
+{
+  "name": "sleepcodecompile",
+  "version": "1.0.0",
+  "description": "Group Coding App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muskan Garg",
+  "license": "ISC",
+  "engines": {
+    "node": "8.11.3",
+    "npm": "5.6.0"
+  },
+  "dependencies": {
+    "node":"8.11.3",
+    "npm": "5.6.0",
+    "bcrypt": "^3.0.2",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.4.0",
+    "multer": "^1.4.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport.socketio": "^3.7.0",
+    "request": "^2.88.0",
+    "sanitize-html": "^1.20.0",
+    "socket.io": "^2.2.0"
+  }
+}
