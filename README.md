@@ -4,7 +4,7 @@ SleepCodeCompile is an online code editor that lets people collaborate in real-t
 
 It is built using Sockets and Express in NodeJs supported by MongoDB database.This app is powered by Hackerearth API. 
 
-####Visit : https://sleepcodecompile.herokuapp.com 
+#### Visit : https://sleepcodecompile.herokuapp.com 
 
 ## Libraries used :
 <ul>
@@ -21,20 +21,22 @@ It is built using Sockets and Express in NodeJs supported by MongoDB database.Th
 </ul>
 
 ## To run this project :
-<ul>
+
 1. <b>Get a Client Secret Key:</b> Go to https://www.hackerearth.com/api/register/, create a HackerEarth profile and register a url. You can register http://google.com, for example. Then you will be provided with a Client Secret Key. 
 2. Clone this repo
-3. Change you directory : cd SleepCodeCompile
-4. Run npm install
-5. Run npm start
+3. Change you directory : `cd SleepCodeCompile`
+4. Run `npm install`
+5. Run `npm start`
 
 ## Features
 
 <ul>
-<li>text editor and compiler</li>
-<li>chat ( both personal and group )</li>
-<li>submission history with link to all submissions</li>
-<li>syntax highlighting for programming languages</li>
+ <li>text editor and compiler</li>
+ <li>chat ( both personal and group )</li>
+ <li>syntax highlighting for programming languages</li>
+ <li>Real-Time Editing and Collaboration</li>
+ <li>Side Menu to Navigate Across Pages</li>
+ <li>Sign-up and Sign-in Authentication</li>
 </ul>
 
 ## Intended Uses
